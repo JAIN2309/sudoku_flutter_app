@@ -82,7 +82,7 @@ class ThemeController extends GetxController {
       backgroundColor: Colors.transparent,
       foregroundColor: Color(0xFF1F2937),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       elevation: 8,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16),
@@ -112,7 +112,7 @@ class ThemeController extends GetxController {
       backgroundColor: Colors.transparent,
       foregroundColor: Color(0xFFF9FAFB),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       elevation: 8,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16),
