@@ -1,5 +1,8 @@
 # sudoku
 
+[![Live Demo](https://img.shields.io/badge/demo-live-blue.svg)](https://JAIN2309.github.io/sudoku_flutter_app/)
+
+
 A new Flutter project.
 
 ## Getting Started
